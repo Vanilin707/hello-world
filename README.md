@@ -1,1 +1,1 @@
-# hello-world
+Учебный макет BarberShop
